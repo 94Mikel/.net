@@ -1,4 +1,5 @@
 using _1.proyecto.Servicios;
+using Portafolio.Servicios;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +22,7 @@ En general hay 3 tipos de servicios:
 */
 
 builder.Services.AddTransient<IRepositorioProyectos, RepositorioProyectos>();
+builder.Services.AddTransient<IServicioEmail, ServicioEmailSendGripd>();
 
 var app = builder.Build();
 

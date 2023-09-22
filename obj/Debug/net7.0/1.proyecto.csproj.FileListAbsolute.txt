@@ -28,3 +28,8 @@
 /home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/obj/Debug/net7.0/1.proyecto.pdb
 /home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/obj/Debug/net7.0/1.proyecto.genruntimeconfig.cache
 /home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/obj/Debug/net7.0/ref/1.proyecto.dll
+/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/bin/Debug/net7.0/SendGrid.dll
+/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/bin/Debug/net7.0/StarkbankEcdsa.dll
+/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/obj/Debug/net7.0/1.proyecto.csproj.AssemblyReference.cache
+/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/obj/Debug/net7.0/1.proyecto.csproj.CopyComplete

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using _1.proyecto.Models;
 using _1.proyecto.Servicios;
+using Portafolio.Servicios;
 
 namespace _1.proyecto.Controllers;
 
@@ -9,10 +10,14 @@ namespace _1.proyecto.Controllers;
 public class HomeController : Controller
 {
     private readonly IRepositorioProyectos repositorioProyectos;
+    private readonly IServicioEmail servicioEmail;
 
-    public HomeController(IRepositorioProyectos repositorioProyectos)
+    public HomeController(
+        IRepositorioProyectos repositorioProyectos, IServicioEmail servicioEmail
+        )
     {
         this.repositorioProyectos = repositorioProyectos;
+        this.servicioEmail = servicioEmail;
     }
     //Este metodo(acciones) devuelve IActionResult
     public IActionResult Index()
@@ -56,8 +61,9 @@ public class HomeController : Controller
     }
 
     [HttpPost]
-    public IActionResult Contacto(ContactoViewModel contactoViewModel)
+    public async Task<IActionResult> Contacto(ContactoViewModel contactoViewModel)
     {
+        await servicioEmail.Enviar(contactoViewModel);
         return RedirectToAction("Gracias");
     }
 
