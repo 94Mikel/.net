@@ -21,12 +21,20 @@
       "PackagePath": "staticwebassets/imagenes/amazon.png"
     },
     {
+      "Id": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/arratek.png",
+      "PackagePath": "staticwebassets/imagenes/arratek.png"
+    },
+    {
       "Id": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/dotnet-image.png",
       "PackagePath": "staticwebassets/imagenes/dotnet-image.png"
     },
     {
       "Id": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/dotnet-imagen-2.png",
       "PackagePath": "staticwebassets/imagenes/dotnet-imagen-2.png"
+    },
+    {
+      "Id": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/eroski.png",
+      "PackagePath": "staticwebassets/imagenes/eroski.png"
     },
     {
       "Id": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/nyt.png",
@@ -37,8 +45,16 @@
       "PackagePath": "staticwebassets/imagenes/photo.jpg"
     },
     {
+      "Id": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/platino.png",
+      "PackagePath": "staticwebassets/imagenes/platino.png"
+    },
+    {
       "Id": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/reddit.png",
       "PackagePath": "staticwebassets/imagenes/reddit.png"
+    },
+    {
+      "Id": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/revolution.png",
+      "PackagePath": "staticwebassets/imagenes/revolution.png"
     },
     {
       "Id": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/steam.png",

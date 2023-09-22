@@ -13,33 +13,32 @@ namespace _1.proyecto.Servicios
             return new List<Proyecto> { 
                 new Proyecto
                 {
-                    Titulo = "Amazon",
-                    Descripcion = "E-Comerce realizado en ASP.NET Core",
-                    Link = "https://amazon.com",
-                    ImagenURL = "/imagenes/amazon.png"
+                    Titulo = "Multicash revolution -> Picmatic",
+                    Descripcion = "Actualmente desarrollando",
+                    Link = "https://www.picmatic.es/index.php/multicash-revolution/",
+                    ImagenURL = "/imagenes/revolution.png"
                 },
                 new Proyecto
                 {
-                    Titulo = "New York Times",
-                    Descripcion = "Páginas de noticias en React",
-                    Link = "https://nytimes.com",
-                    ImagenURL = "/imagenes/nyt.png"
+                    Titulo = "Multicash platino -> Picmatic",
+                    Descripcion = "Desarrollo, testeo y puesta en producción del software multicash",
+                    Link = "https://www.picmatic.es/index.php/multicash-platino",
+                    ImagenURL = "/imagenes/platino.png"
                 },
                 new Proyecto
                 {
-                    Titulo = "Reddit",
-                    Descripcion = "Red social para compartir en comunidades",
-                    Link = "https://reddit.com",
-                    ImagenURL = "/imagenes/reddit.png"
+                    Titulo = "Eroski",
+                    Descripcion = "Microservicios con asp .net",
+                    Link = "https://www.eroski.es/",
+                    ImagenURL = "/imagenes/eroski.png"
                 },
                 new Proyecto
                 {
-                    Titulo = "Steam",
-                    Descripcion = "Tienda en linea para comprar videojuegos",
-                    Link = "https://store.steampowered.com",
-                    ImagenURL = "/imagenes/steam.png"
+                    Titulo = "Arratek",
+                    Descripcion = "Mantenimiento de la web con wordpress + php",
+                    Link = "https://arratek.com",
+                    ImagenURL = "/imagenes/arratek.png"
                 }
-
             };
         }
     }

@@ -1,5 +1,8 @@
-# 1 Proyecto. 
-### Con ASP .NET CORE MVC realizaremos un portafolio
+# Portafolio
+
+> ### Tecnologias:
+> - ASP .NET CORE MVC
+> - Bootstrap
 
 > # Definiciones
 > - Portafolio:

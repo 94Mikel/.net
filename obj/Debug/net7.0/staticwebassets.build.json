@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1yqSstnnUyRdef6khhjbSBi8K8FQy09ECdkmUHFMKGU=",
+  "Hash": "6bz1TR7M6MdGwLHfFc77eOpk3pJP0BrYhbHY2M+ssGw=",
   "Source": "1.proyecto",
   "BasePath": "_content/1.proyecto",
   "Mode": "Default",
@@ -119,6 +119,23 @@
       "OriginalItemSpec": "wwwroot/imagenes/amazon.png"
     },
     {
+      "Identity": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/arratek.png",
+      "SourceId": "1.proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/",
+      "BasePath": "_content/1.proyecto",
+      "RelativePath": "imagenes/arratek.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imagenes/arratek.png"
+    },
+    {
       "Identity": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/dotnet-image.png",
       "SourceId": "1.proyecto",
       "SourceType": "Discovered",
@@ -151,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/imagenes/dotnet-imagen-2.png"
+    },
+    {
+      "Identity": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/eroski.png",
+      "SourceId": "1.proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/",
+      "BasePath": "_content/1.proyecto",
+      "RelativePath": "imagenes/eroski.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imagenes/eroski.png"
     },
     {
       "Identity": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/nyt.png",
@@ -187,6 +221,23 @@
       "OriginalItemSpec": "wwwroot/imagenes/photo.jpg"
     },
     {
+      "Identity": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/platino.png",
+      "SourceId": "1.proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/",
+      "BasePath": "_content/1.proyecto",
+      "RelativePath": "imagenes/platino.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imagenes/platino.png"
+    },
+    {
       "Identity": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/reddit.png",
       "SourceId": "1.proyecto",
       "SourceType": "Discovered",
@@ -202,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/imagenes/reddit.png"
+    },
+    {
+      "Identity": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/revolution.png",
+      "SourceId": "1.proyecto",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/",
+      "BasePath": "_content/1.proyecto",
+      "RelativePath": "imagenes/revolution.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imagenes/revolution.png"
     },
     {
       "Identity": "/home/mikel/codigo/C#/curso/udemy/MVC/1.proyecto/wwwroot/imagenes/steam.png",
